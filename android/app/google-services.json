@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "474257708485",
+    "firebase_url": "https://agenda-boa-41e5d-default-rtdb.firebaseio.com",
+    "project_id": "agenda-boa-41e5d",
+    "storage_bucket": "agenda-boa-41e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474257708485:android:3a0aae59e0c02597dde7ac",
+        "android_client_info": {
+          "package_name": "com.agenda.boa.agenda_boa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474257708485-8r074kf96v6pdsfjd7hnhvhmtagictco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9f1tbZFxWXha8ke0JGAv-5J_daiGZx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474257708485-8r074kf96v6pdsfjd7hnhvhmtagictco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
